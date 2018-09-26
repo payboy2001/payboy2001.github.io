@@ -4,21 +4,21 @@
 }
 
 .tekst{
-  font-size:300px;
+  font-size:30vh;
   font-family: 'Quicksand', sans-serif;
 }
 
 .tekst3{
   font-family: 'Montserrat', sans-serif;
-  font-size:50px;
+  font-size:5vh;
 }
 
 .tekst2{
   font-family: 'Ubuntu', sans-serif;
-  font-size:100px;  
+  font-size:10vh;  
 }
  
 body{
     background-image: url(https://pp.userapi.com/c848632/v848632549/7bdcf/70H3T6HGgZU.jpg);
-    background-size: 5px 10px;
+    background-size: 1vh 1vh;
    }
