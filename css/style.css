@@ -1,24 +1,32 @@
+body{
+    background-image: url(https://pp.userapi.com/c848632/v848632549/7bdcf/70H3T6HGgZU.jpg);
+    background-size: 1vh 1vh;
+   }
 
-.hello{
+.image{
   width:80vw;
   max-width:700px
+}
 
 .tekst{
   font-size:8vw;
   font-family: 'Quicksand', sans-serif;
 }
 
-.tekst3{
-  font-family: 'Montserrat', sans-serif;
-  font-size:6vw;
-}
-
 .tekst2{
   font-family: 'Ubuntu', sans-serif;
-  font-size:5vw;  
+  font-size:6vw;  
+}
+
+.tekst3{
+  font-family: 'Montserrat', sans-serif;
+  font-size:5vh;
+}
+
+.ytvideo{
+  width:95vw;
+  max-width:1280px;
+  height:35vw;
+  max-height:720px;
 }
  
-body{
-    background-image: url(https://pp.userapi.com/c848632/v848632549/7bdcf/70H3T6HGgZU.jpg);
-    background-size: 1vh 1vh;
-   }
