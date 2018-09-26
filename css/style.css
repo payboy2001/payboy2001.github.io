@@ -1,21 +1,21 @@
 
 .hello{
-  width:800px;
-}
+  width:80vw;
+  max-width:700px
 
 .tekst{
-  font-size:30vh;
+  font-size:8vw;
   font-family: 'Quicksand', sans-serif;
 }
 
 .tekst3{
   font-family: 'Montserrat', sans-serif;
-  font-size:5vh;
+  font-size:6vw;
 }
 
 .tekst2{
   font-family: 'Ubuntu', sans-serif;
-  font-size:10vh;  
+  font-size:5vw;  
 }
  
 body{
